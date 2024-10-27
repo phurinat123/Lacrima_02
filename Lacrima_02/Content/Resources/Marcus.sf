@@ -1,0 +1,15 @@
+{
+  "textureAtlas": {
+    "texture": "Spritesheet\\Marcus_Spritesheet.png",
+    "regionWidth": 48,
+    "regionHeight": 48
+  },
+  "cycles": {
+    "idle": {
+      "frames": [0,1,2]
+    },
+    "walk": {
+      "frames": [30,31,32,33]
+    }
+  }
+}
